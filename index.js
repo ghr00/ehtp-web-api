@@ -8,7 +8,7 @@ const bodyParser = require('body-parser');
 const jwt = require('jsonwebtoken');
 
 const app = express();
-const port = process.env.API_PORT;
+const PORT = process.env.API_PORT || 3000;
 
 const http = require('http').createServer(app);
 
