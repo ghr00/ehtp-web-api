@@ -1,0 +1,19 @@
+{
+  "name": "electron-api",
+  "version": "1.0.0",
+  "description": "api for electron test api",
+  "main": "app.js",
+  "author": "GHR00",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "socket.io": "^3.0.4",
+    "socketio-jwt": "^4.6.2"
+  }
+}
