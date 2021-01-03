@@ -1,10 +1,16 @@
 {
-  "name": "electron-api",
+  "name": "ehtp-web-api",
   "version": "1.0.0",
-  "description": "api for electron test api",
+  "description": "api pour le module web 2.0 EHTP par Amine Yahemdi",
   "main": "app.js",
   "author": "GHR00",
   "license": "MIT",
+  "engines": {
+    "node": "12.x"
+  },
+  "scripts": {
+    "start":"node index.js"
+  },
   "dependencies": {
     "body-parser": "^1.19.0",
     "cookie-parser": "^1.4.5",
