@@ -2,7 +2,7 @@
   "name": "ehtp-web-api",
   "version": "1.0.0",
   "description": "api pour le module web 2.0 EHTP par Amine Yahemdi",
-  "main": "app.js",
+  "main": "index.js",
   "author": "GHR00",
   "license": "MIT",
   "engines": {
